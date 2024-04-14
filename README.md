@@ -40,9 +40,13 @@ endif
 
 🇭🇰>🇬🇧
 🚌 YX67UYR, XE1149, WF653, KW9192
+
 🚄 GWR (all), 701
+
 ✈️ Airbus, ATR, BAE
-世畫 L/N 💫 💙一歌 💚志步
-初音, 巡音
+
+世畫 L/N 💫 💙一歌 💚志步, 初音, 巡音
+
 ▶️Hololive 3rd gen 🚢⚔️🔥🐱🐰
+
 あおぎり🏫
