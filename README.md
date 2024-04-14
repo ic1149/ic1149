@@ -2,6 +2,7 @@
 
 ## programming languages I know
 
+```
 if __name__ == "__main__" and python:
   print("🐍" + "very familiar")
 
@@ -33,6 +34,7 @@ endif
 if VB then
   print("because I learnt OxfordCambridgeAndRoyalSocietyOfArtsExamReferenceLanguage and it has the same syntax so I know visual basic")
 endif
+```
 
 ## about myself
 
