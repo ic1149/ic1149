@@ -27,12 +27,12 @@ if swift{
   print("(surprisingly) the first language I learnt, and never touched it again because I am not a fan of apple")
 }
 
-if OxfordCambridgeAndRoyalSocietyOfArtsExamReferenceLanguage then
+if OxfordCambridgeAndRoyalSocietyOfArtsExamReferenceLanguageAkaPseudocodeAndBasicallyTheSameSyntaxAsVisualBasic then
   print("I hate it")
 endif
 
 if VB then
-  print("because I learnt OxfordCambridgeAndRoyalSocietyOfArtsExamReferenceLanguage and it has the same syntax so I know visual basic")
+  print("because I learnt OxfordCambridgeAndRoyalSocietyOfArtsExamReferenceLanguageAkaPseudocodeAndBasicallyTheSameSyntaxAsVisualBasic and it has the same syntax so I know visual basic")
 endif
 ```
 
