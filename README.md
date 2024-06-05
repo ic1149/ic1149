@@ -1,5 +1,26 @@
 # about me
 
+## about myself
+
+🇭🇰>🇬🇧
+🚌 YX67UYR, XE1149, WF653, KW9192
+
+🚄 GWR (all), 701
+
+✈️ Airbus, ATR, BAE
+
+世畫 L/N 💫 💙一歌 💚志步, 初音, 巡音
+
+▶️Hololive 3rd gen 🚢⚔️🔥🐱🐰
+
+あおぎり🏫
+
+## my social medias
+
+[Twitter @kw91921](x.com/@kw91921)
+[Instagram @ia_cw](instagram.com/ia_cw)
+Discord: xe1149
+
 ## programming languages I know
 
 ```
@@ -35,18 +56,3 @@ if VB then
   print("because I learnt OxfordCambridgeAndRoyalSocietyOfArtsExaminationsExamReferenceLanguageAkaPseudocodeAndBasicallyTheSameSyntaxAsVisualBasic and it has the same syntax so I know visual basic")
 endif
 ```
-
-## about myself
-
-🇭🇰>🇬🇧
-🚌 YX67UYR, XE1149, WF653, KW9192
-
-🚄 GWR (all), 701
-
-✈️ Airbus, ATR, BAE
-
-世畫 L/N 💫 💙一歌 💚志步, 初音, 巡音
-
-▶️Hololive 3rd gen 🚢⚔️🔥🐱🐰
-
-あおぎり🏫
