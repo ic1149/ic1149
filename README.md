@@ -17,9 +17,9 @@
 
 ## my social medias
 
-[Twitter @kw91921](x.com/@kw91921)
+[Twitter @kw91921](https://x.com/@kw91921)
 
-[Instagram @ia_cw](instagram.com/ia_cw)
+[Instagram @ia_cw](https://instagram.com/ia_cw)
 
 Discord: xe1149
 
