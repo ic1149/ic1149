@@ -33,6 +33,13 @@ if lua then
   print("🌕" .. " familiar")
 end
 
+package main
+func main() {
+  if go lang{
+    fmt.Println("Learning, I like it")
+  }
+}
+
 if (HTML||CSS||JS){
   console.log("alright");
 }
@@ -45,6 +52,7 @@ if (cFamily){
 
 if (kotlin){
   println("I will probably learn more to make android apps")
+}
 
 if swift{
   print("(surprisingly) the first language I learnt, and never touched it again because I am not a fan of apple")
@@ -55,6 +63,9 @@ if OxfordCambridgeAndRoyalSocietyOfArtsExaminationsExamReferenceLanguageAkaPseud
 endif
 
 if VB then
-  print("because I learnt OxfordCambridgeAndRoyalSocietyOfArtsExaminationsExamReferenceLanguageAkaPseudocodeAndBasicallyTheSameSyntaxAsVisualBasic and it has the same syntax so I know visual basic")
+  print("because I learnt OxfordCambridgeAndRoyalSocietyOfArtsExaminationsExamReferenceLanguageAkaPseudocodeAndBasicallyTheSameSyntaxAsVisualBasic and it has the same syntax so I know the syntax of visual basic")
 endif
+
+#/bin/bash
+echo "know basic things"
 ```
