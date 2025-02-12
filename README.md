@@ -44,6 +44,8 @@ if (HTML||CSS||JS){
   console.log("alright");
 }
 
+SELECT * FROM Languages WHERE name = 'MySQL' --I guess I know how to use it
+
 if (cFamily){
   cout << "I";
   Console.Write(" kinda");
