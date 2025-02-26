@@ -2,7 +2,14 @@
 
 ## about myself
 
+Self taught programmer. Feel free to discuss programming with me on my social medias.
+
+proficient written languages: Traditional Chinese, English
+
 🇭🇰>🇬🇧
+
+## my hobbies (iykyk)
+
 🚌 YX67UYR, XE1149, WF653, KW9192
 
 🚄 GWR (all), 701
