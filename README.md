@@ -1,7 +1,5 @@
 # about me
 
-## about myself
-
 Self taught programmer. Feel free to discuss programming with me on my social medias.
 
 proficient written languages: Traditional Chinese, English
