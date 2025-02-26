@@ -22,6 +22,8 @@ proficient written languages: Traditional Chinese, English
 
 ## my social medias
 
+Please specify you found me on github and your github username when contacting me.
+
 [Twitter @kw91921](https://x.com/@kw91921)
 
 [Instagram @ia_cw](https://instagram.com/ia_cw)
