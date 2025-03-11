@@ -75,6 +75,6 @@ if VB then
   print("because I learnt OxfordCambridgeAndRoyalSocietyOfArtsExaminationsExamReferenceLanguageAkaPseudocodeAndBasicallyTheSameSyntaxAsVisualBasic and it has the same syntax so I know the syntax of visual basic")
 endif
 
-#/bin/bash
+#!/bin/bash
 echo "know basic things"
 ```
