@@ -41,8 +41,9 @@ if lua then
 end
 
 package main
+import "fmt"
 func main() {
-  if go lang{
+  if go {
     fmt.Println("Learning, I like it")
   }
 }
