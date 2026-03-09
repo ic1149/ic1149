@@ -1,6 +1,6 @@
 # about me
 
-Self taught programmer. Feel free to discuss programming with me on my social medias. Fluent in python, comfortable in go but still learning.
+Self taught programmer. Fluent in python, comfortable in go but still learning.
 
 proficient written languages: Traditional Chinese, English
 
